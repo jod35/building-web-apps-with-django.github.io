@@ -1,0 +1,10 @@
+ol{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.topic{
+    width: 30%;
+    padding: 20px;
+}
